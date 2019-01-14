@@ -6,7 +6,7 @@ const DYNAMIC_CACHE = 'dynamic-v1';
 const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHEL = [
-    '/',
+   // '/',
     'index.html',
     'img/favicon.ico',
     'img/avatars/spiderman.jpg',
